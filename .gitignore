@@ -1,0 +1,88 @@
+# Logs
+*.log
+*.out
+*.pid
+
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Vscode
+.vscode/
+
+# emacs
+*~
+
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+.next/
+out/
+
+# production
+build/
+dist/
+cache/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# jangaroo
+generated/
+
+# Maven
+target/
+overlays/
+.m2/
+config/
+
+# Jenkins
+.repository
+
+# (Custom) dev envs
+.env
+.envrc
+/tmp/
+**/src/*/resources/config/application-*.properties
+
+# terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform*.log
+.terraform.lock.hcl
+
+# pnpm store
+.pnpm-store
+
+.turbo/
