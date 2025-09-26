@@ -17,7 +17,7 @@ docker pull container-registry.coremedia.com/coremedia/kio-editorial-backend:REL
 ```
 
 For detailed documentation and installation instructions for KIO Co-Pilot, see: 
-https://documentation.coremedia.com/how-to-guides/KIO
+https://documentation.coremedia.com/features/KIO
 
 ## Requirements
 
