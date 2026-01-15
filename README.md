@@ -13,7 +13,7 @@ Available release tags and release notes can be found in this repository below
 
 ```
 docker login container-registry.coremedia.com
-docker pull container-registry.coremedia.com/coremedia/kio-editorial-backend:RELEASE_TAG
+docker pull container-registry.coremedia.com/applications/kio-editorial-backend:RELEASE_TAG
 ```
 
 For detailed documentation and installation instructions for KIO Co-Pilot, see: 
